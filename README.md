@@ -65,3 +65,7 @@
 ![water_pump_img_1](https://github.com/likefate/smart-farm/blob/main/img/water_pump_img_1.jpg)
 
 - 워터펌프 모듈은 아두이노 마이크로컨트롤러와 워터펌프를 함께 사용하여 물을 효과적으로 이동시키는 장치이다. 스마트팜에서 식물에 물을 주는 중요한 역할을 담당한다. 
+
+# 회로도
+
+![circuit_diagram_1](https://github.com/likefate/smart-farm/blob/main/img/circuit_diagram_1.png)
