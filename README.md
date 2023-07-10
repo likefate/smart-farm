@@ -53,3 +53,15 @@
 ![esp32_img_1](https://github.com/likefate/smart-farm/blob/main/img/esp32_img_1.jpg)
 
 - ESP32는 Espressif Systems사에서 개발한 저전력 마이크로컨트롤러(마이크로컨트롤러 유닛 + Wi-Fi 및 블루투스 모듈)이다. ESP32는 주로 인터넷 연결이 필요한 IoT(Internet of Things) 프로젝트 및 응용 프로그램에 널리 사용된다.
+
+### 4-channel-relay-module
+
+![4ch_img_1](https://github.com/likefate/smart-farm/blob/main/img/4ch_img_1.jpg)
+
+- 4 채널 릴레이 모듈은 전기 신호를 이용하여 다양한 기기나 회로를 제어하는데 사용되는 장치이다. 이 모듈은 4개의 독립적인 릴레이를 포함하고 있으며, 각각의 릴레이는 독립적으로 제어할 수 있는 채널을 가지고 있다. 즉, 하나의 모듈로 4개의 기기나 회로를 제어할 수 있다. 또한 과전류 및 역전류 보호 등의 보호 기능을 제공하기도 한다.
+
+### 워터펌프 모듈
+
+![water_pump_img_1](https://github.com/likefate/smart-farm/blob/main/img/water_pump_img_1.jpg)
+
+- 워터펌프 모듈은 아두이노 마이크로컨트롤러와 워터펌프를 함께 사용하여 물을 효과적으로 이동시키는 장치이다. 스마트팜에서 식물에 물을 주는 중요한 역할을 담당한다. 
